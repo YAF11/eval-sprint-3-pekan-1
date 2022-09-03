@@ -34,7 +34,7 @@ class Eagle extends Animal {
 let elang = new Eagle("Elang Emas", 3);
 
 //4
-let myRabbit = new Rabbits("Labis", 2);
+let myRabbit = new Rabbits("Labi", 2);
 
 //5
 let myEagle = new Eagle("Elo", 4);
